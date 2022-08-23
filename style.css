@@ -158,3 +158,11 @@ cite {
     text-align: right;
 }
 
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: #f9faf8;
+    height: 100px;
+}
