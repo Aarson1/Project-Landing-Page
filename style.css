@@ -106,3 +106,55 @@ a {
     align-items: center;
     justify-content: center;  
 }
+
+
+.title2 {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+
+.content1 {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+    padding-bottom: 90px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.info {
+    max-width: 150px;
+    text-align: center;
+  }
+
+.quote {
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: #E5E7EB;
+    justify-content: center;
+    align-items: center;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+
+}
+
+p {
+    max-width: 750px;
+}
+
+cite {
+    display: block;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: bold;
+    text-align: right;
+}
+
